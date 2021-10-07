@@ -1,0 +1,20 @@
+D:\Fritz_Daten\Bedag\Wallpaper Manager\Wallpaper Manager\Wallpaper Manager\bin\Debug\Wallpaper Manager.exe.config
+D:\Fritz_Daten\Bedag\Wallpaper Manager\Wallpaper Manager\Wallpaper Manager\bin\Debug\Wallpaper Manager.exe
+D:\Fritz_Daten\Bedag\Wallpaper Manager\Wallpaper Manager\Wallpaper Manager\bin\Debug\Wallpaper Manager.pdb
+D:\Fritz_Daten\Bedag\Wallpaper Manager\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper Manager.csproj.AssemblyReference.cache
+D:\Fritz_Daten\Bedag\Wallpaper Manager\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper_Manager.Form1.resources
+D:\Fritz_Daten\Bedag\Wallpaper Manager\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper_Manager.Properties.Resources.resources
+D:\Fritz_Daten\Bedag\Wallpaper Manager\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper Manager.csproj.GenerateResource.cache
+D:\Fritz_Daten\Bedag\Wallpaper Manager\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper Manager.csproj.CoreCompileInputs.cache
+D:\Fritz_Daten\Bedag\Wallpaper Manager\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper Manager.exe
+D:\Fritz_Daten\Bedag\Wallpaper Manager\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper Manager.pdb
+C:\Users\FBO-Admin\Desktop\Wallpaper Manager\Wallpaper Manager\bin\Debug\Wallpaper Manager.exe.config
+C:\Users\FBO-Admin\Desktop\Wallpaper Manager\Wallpaper Manager\bin\Debug\Wallpaper Manager.exe
+C:\Users\FBO-Admin\Desktop\Wallpaper Manager\Wallpaper Manager\bin\Debug\Wallpaper Manager.pdb
+C:\Users\FBO-Admin\Desktop\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper Manager.csproj.AssemblyReference.cache
+C:\Users\FBO-Admin\Desktop\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper_Manager.Form1.resources
+C:\Users\FBO-Admin\Desktop\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper_Manager.Properties.Resources.resources
+C:\Users\FBO-Admin\Desktop\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper Manager.csproj.GenerateResource.cache
+C:\Users\FBO-Admin\Desktop\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper Manager.csproj.CoreCompileInputs.cache
+C:\Users\FBO-Admin\Desktop\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper Manager.exe
+C:\Users\FBO-Admin\Desktop\Wallpaper Manager\Wallpaper Manager\obj\Debug\Wallpaper Manager.pdb
